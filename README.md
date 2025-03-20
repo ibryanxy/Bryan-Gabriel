@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=ibryanxy&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/ibryanxy">
-    <img align="center" src="Welcome.png" width="500">
+    <img align="center" scr="Welcome.png" width="500">
   </a>
 </div>
 <br>
