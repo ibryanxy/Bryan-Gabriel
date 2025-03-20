@@ -7,12 +7,12 @@
 <br>
 
 <div align="center">
-  <!-- Work Links -->
+
   <a href="https://github.com/ibryanxy" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ibryanxy/" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?
   <a href="https:https://www.instagram.com/ibryanxy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
-</div>
+</div> 
 
 
 <!-- 
